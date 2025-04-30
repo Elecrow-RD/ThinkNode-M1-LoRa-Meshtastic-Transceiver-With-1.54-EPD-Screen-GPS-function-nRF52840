@@ -40,7 +40,7 @@ https://www.elecrow.com/thinknode-m1-meshtastic-lora-signal-transceiver-powered-
 | Operating Temperature             | -10~50°C                                                     |
 | Storage Temperature               | -20~60 °C                                                    |
 | Relative humidity                 | 10%-95%, @ 40°C (non-condensing)                             |
-| Size                              | 82*51.6*26.3m                                                |
+| Size                              | 82\*51.6\*26.3m                                                |
 | Shell                             | ABS Plastic                                                  |
 | Net weight                        | 58g (Without case); 81g (With case)                          |
 
