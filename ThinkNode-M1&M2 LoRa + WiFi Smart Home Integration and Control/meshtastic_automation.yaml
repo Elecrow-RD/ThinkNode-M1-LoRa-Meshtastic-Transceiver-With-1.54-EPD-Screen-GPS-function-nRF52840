@@ -1,0 +1,12 @@
+# Meshtastic Message Trigger Conditions
+# 1. Turn on LED
+{{ trigger.event.data.message | trim | lower == 'led on' }}
+
+# 2. Turn off LED
+{{ trigger.event.data.message | trim | lower == 'led off' }}
+
+# 3. Turn on backlight
+{{ trigger.event.data.message | trim | lower == 'backlight on' }}
+
+# 4. Turn off backlight
+{{ trigger.event.data.message | trim | lower == 'backlight off' }}
